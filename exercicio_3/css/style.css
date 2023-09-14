@@ -3,6 +3,9 @@ body{
 }
 
 .div1{
- background-color:azure;
+    background-color:azure;
+    width: 500px;
+    height: 420px;
+    border-radius: 60px;
 }
 

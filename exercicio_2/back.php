@@ -22,7 +22,7 @@
                 } else if($varNota <= 8){
                     echo "<h2 class='m_b'> B </h2>";
                 } else{
-                    echo "<h2 class='m_mbh'> MB </h2>";
+                    echo "<h2 class='m_mb'> MB </h2>";
                 }
             ?>
     </center>

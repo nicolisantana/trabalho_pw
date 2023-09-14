@@ -6,6 +6,7 @@ body{
     background-color: #FFDEAD;
     height: 300px;
     width: 400px;
+    border-radius: 60px;
 }
 .m_i{
     color: #DC143C;

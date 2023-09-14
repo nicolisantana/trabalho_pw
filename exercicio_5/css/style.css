@@ -1,0 +1,9 @@
+body{
+    background-color: #FF8C00;
+}
+.div1{
+    background-color: #FFA500;
+    height: 350px;
+    width: 400px;
+    border-radius: 60px;
+}
